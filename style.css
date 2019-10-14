@@ -1,0 +1,18 @@
+/* BEM convention */
+
+.review-code__tab-bar-list {
+  display: flex;
+  list-style: none;
+}
+
+.tab-button--active {
+  outline: 2px solid red;
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content--active {
+  display: block;
+}
