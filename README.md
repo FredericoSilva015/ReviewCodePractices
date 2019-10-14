@@ -1,2 +1,2 @@
 # ReviewCodePractices
-A common tab, more importantly a snapshot of my current code practices
+A common tab element, more importantly, a snapshot of my current code practices
